@@ -13,13 +13,16 @@ Curso impartido en el Doctorado En Cuidados Paliativos, Facultad De Enfermería,
 ### Modelos lineales
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/modelos_lineales_a.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/modelos_lineales_b.ipynb)
+### Modelos ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/clase4a.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/clase4b.ipynb)
 
 ## Local Setup
 
 ### Using UV
 ```bash
 # Create virtual environment
-uv venv --python 3.13
+uv venv --python 3.10
 
 # Activate environment
 .\.venv\Scripts\Activate.ps1  # Windows
