@@ -16,6 +16,9 @@ Curso impartido en el Doctorado En Cuidados Paliativos, Facultad De Enfermería,
 ### Modelos ML
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/clase4a.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/clase4b.ipynb)
+### Causal ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/causal_disc_ate.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/MetodosAvanzadosInvestigacionCuantitativa/blob/main/ejemplo.ipynb)
 
 ## Local Setup
 
